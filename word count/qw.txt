@@ -1,0 +1,1 @@
+split function is quite useful and usually quite generic method to get words out of the list, but this approach fails once we introduce special characters in the list.
