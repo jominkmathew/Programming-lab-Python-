@@ -1,0 +1,6 @@
+newFile = open("file.txt","a")
+newFile.write("Python is an interpreted, high-level and general-purpose programming language.")
+newFile.close()
+readFile = open("file.txt","r")
+print(readFile.readlines())
+readFile.close()
